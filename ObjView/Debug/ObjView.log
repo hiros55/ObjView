@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\hiro\Desktop\ObjView\ObjView\main.cpp(43,24): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\ObjView\ObjView\main.cpp(44,15): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\ObjView\ObjView\main.cpp(45,15): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\ObjView\ObjView\main.cpp(99,25): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\ObjView\ObjView\main.cpp(105,46): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\ObjView\ObjView\main.cpp(134,25): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+  ObjView.cpp
+C:\Users\hiro\Desktop\ObjView\ObjView\ObjView.cpp(10,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\ObjView\ObjView\ObjView.cpp(43,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\ObjView\ObjView\ObjView.cpp(52,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\ObjView\ObjView\ObjView.cpp(60,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\ObjView\ObjView\ObjView.cpp(71,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  コードを生成中...
+  ObjView.vcxproj -> C:\Users\hiro\Desktop\ObjView\Debug\ObjView.exe
